@@ -38,6 +38,24 @@
 - CASO Design, [Accessories for vacuum sealers](https://caso-design.de/de/vakuum-zubehoer/)
 - М.Видео, [Caso VC BOX SET](https://www.mvideo.ru/products/vakuumnyi-konteiner-caso-vc-box-set-400645365)
 
+## Современные аксессуары и магазины
+
+- Tupperware, [«Умный холодильник» 3,2 л, вертикальный](https://www.tupperware.su/shop/konteyner_umnyy_holodilnik_3_2_l_vertikalnyy-11154992/)
+- Tupperware, [«Умный холодильник» 1,8 л, низкий](https://www.tupperware.su/shop/konteyner_umnyy_holodilnik_1_8_l_nizkiy-11155832/)
+- Kuchenland Home, [контейнер для хранения зелени, 26 см, Comfort](https://www.kuchenland.ru/catalog/kukhnya/khranenie-produktov/konteynery-i-lanchboksy/konteyner-dlya-khraneniya-zeleni-26-sm-comfort/)
+- Kuchenland Home, [ящик-органайзер для холодильника](https://www.kuchenland.ru/product/yashchik-organayzer-dlya-kholodilnika-30kh10kh6-sm-plastik-right/)
+- Kuchenland Home, [подвесная полка-органайзер для холодильника](https://www.kuchenland.ru/product/polka-organayzer-dlya-kholodilnika-27kh20-sm-podvesnaya-plastik-neylon-prozrachnaya-basic/)
+- OXO, [GreenSaver Produce Keeper](https://www.oxo.com/greensaver-produce-keeper-5-0-qt.html)
+- Joseph Joseph, [FridgeStore Large Storage Bin](https://www.josephjoseph.com/products/fridgestore-large-storage-bin-clear)
+- Prepara, [Herb Savor Eco](https://prepara.com/products/herb-savor-eco)
+- Cole & Mason, [Herb Keepers](https://coleandmasonusa.com/collections/herb-keepers)
+- BeeTasty, [восковые салфетки](https://beetasty.ru/)
+- Bee's Wrap, [FAQ](https://www.beeswrap.com/pages/faq)
+- ZEERO, [экомешочки для овощей и фруктов](https://zeero.ru/collection/dlya-ovoschey-i-fruktov)
+- Vejibag, [официальный магазин](https://www.vejibag.com/)
+- Vejibag, [Two Pocket для трав и зелени](https://www.vejibag.com/products/two-pocket-vejibag)
+- Boxberry Market, [Stasher](https://boxberry.ru/market/brands/brand-stasher/)
+
 ## Комментарий к источникам
 
 - Большая часть норм взята из американских официальных источников и университетских extension-материалов.
