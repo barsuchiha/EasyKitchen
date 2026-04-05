@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: Kitchen Storage Docs
+site_description: Практическая документация по хранению продуктов дома
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - scheme: default
+      primary: brown
+      accent: amber
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Главная: index.md
+  - Система хранения:
+      - База: 01_baza.md
+      - Порядок на кухне: 07_poryadok.md
+      - Чеклисты: 09_checklisty.md
+  - Продукты:
+      - Овощи: 02_ovoshchi.md
+      - Фрукты и ягоды: 03_frukty.md
+      - Молочка, сыры, мясо: 04_molochka_syry_myaso.md
+      - Бакалея: 06_bakaleya.md
+  - Заготовки:
+      - Заготовки и морозилка: 05_zagotovki_i_morozilka.md
+  - Покупки:
+      - Что докупить: 08_chto_dokupit.md
+  - Источники: 10_istochniki.md

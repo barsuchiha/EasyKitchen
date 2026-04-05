@@ -1,0 +1,50 @@
+:root {
+  --md-primary-fg-color: #8c4c2e;
+  --md-primary-fg-color--light: #b87450;
+  --md-primary-fg-color--dark: #63311c;
+  --md-accent-fg-color: #d68b2d;
+  --kitchen-sand: #f7f1e7;
+  --kitchen-line: rgba(99, 49, 28, 0.12);
+}
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #fcfaf6;
+  --md-default-fg-color--light: #665a4d;
+}
+
+.md-header {
+  box-shadow: 0 1px 0 var(--kitchen-line);
+}
+
+.md-tabs {
+  background: linear-gradient(90deg, #8c4c2e, #ad6b3d);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  letter-spacing: -0.02em;
+}
+
+.md-typeset h1 {
+  font-weight: 800;
+}
+
+.md-typeset table:not([class]) {
+  border: 1px solid var(--kitchen-line);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--kitchen-sand);
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 12px;
+}
+
+.md-sidebar--primary .md-nav__title {
+  font-weight: 700;
+}
