@@ -18,6 +18,21 @@
 - Potato Goodness, [Buying & Storing Potatoes](https://potatogoodness.com/buying-storing-potatoes/)
 - Colorado State University Extension, [How to Use Potatoes](https://extension.colostate.edu/docs/covid/HowPotatoes.pdf)
 
+## Сиропы и соки
+
+- FDA, [What You Need to Know About Juice Safety](https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-juice-safety)
+- FDA, [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
+- FDA, [Guidance for Industry: Refrigerated Carrot Juice and Other Refrigerated Low-Acid Juices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-refrigerated-carrot-juice-and-other-refrigerated-low-acid-juices)
+- FoodSafety.gov, [Food Safety During Power Outage](https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage)
+- Utah State University Extension, [Food Storage in Home](https://extension.usu.edu/preserve-the-harvest/research/food-storage-in-home)
+- National Center for Home Food Preservation, [Berry Syrup](https://nchfp.uga.edu/how/can/canning-fruits-and-fruit-products/berry-syrup/)
+- National Center for Home Food Preservation, [Storing Home-Canned Foods](https://nchfp.uga.edu/how/can/general-information/storing-home-canned-foods)
+- National Center for Home Food Preservation, [Recommended Jars and Lids](https://nchfp.uga.edu/how/can/general-information/recommended-jars-and-lids/)
+- National Center for Home Food Preservation, [Headspace to Allow](https://nchfp.uga.edu/how/freeze/freeze-general-information/headspace-to-allow/)
+- National Center for Home Food Preservation, [Freezing Mayhaw Juice](https://nchfp.uga.edu/how/freeze/fruits/freezing-mayhaw-juice/)
+- Penn State Extension, [Why Allow Headspace when Canning and Freezing Food?](https://extension.psu.edu/why-allow-headspace-when-canning-and-freezing-food/)
+- Utah State University Extension, [Producing Maple Syrup From Boxelder and Norway Maple Trees](https://extension.usu.edu/forestry/publications/utah-forest-facts/043-maple-tapping-boxelder)
+
 ## Заморозка и домашние заготовки
 
 - National Center for Home Food Preservation, [Blanching Vegetables](https://nchfp.uga.edu/how/freeze/freeze-general-information/blanching-vegetables/)
@@ -64,6 +79,9 @@
 - ВсеИнструменты, [Marmiton металлическая корзина для овощей и фруктов](https://www.vseinstrumenti.ru/product/metallicheskaya-korzina-dlya-hraneniya-ovoschej-i-fruktov-marmiton-26-5x24-5x17-sm-17374-6871243/)
 - ВсеИнструменты, [Юнитрейд-Орел этажерка с корзинами для картошки](https://www.vseinstrumenti.ru/product/metallicheskaya-etazherka-na-kolesah-s-shtabeliruemymi-korzinami-dlya-kartoshki-yunitrejd-orel-na-balkon-00-00-002-01-14-9005-02-4696128/)
 - ВсеИнструменты, [Violet Junior 3-ярусная этажерка](https://www.vseinstrumenti.ru/product/etazherka-violet-junior-napolnaya-3-h-yarusnaya-na-kolesah-myatnaya-771341-6141811/)
+- Pechatkin, [стеклянная бутылочка для сока 0.25 л, ТО-43](https://www.pechatkin.org/banki/bottle_jus.html)
+- Bugel.pro, [бутылки с бугельной пробкой](https://bugel.pro/)
+- Bugel.pro, [бутылки для воды с бугельной пробкой](https://bugel.pro/water)
 
 ## Маркировка и принтеры этикеток
 
