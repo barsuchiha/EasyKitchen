@@ -14,6 +14,9 @@
 - Ohio State University Extension, [Refrigerator Storage](https://ohioline.osu.edu/factsheet/HYG-5403)
 - Penn State Extension, [Proper Care and Handling of Fruits and Vegetables](https://extension.psu.edu/proper-care-and-handling-of-fruits-and-vegetables)
 - Penn State Extension, [Keeping Produce Fresh: Best Practices for Producers](https://extension.psu.edu/keeping-produce-fresh-best-practices-for-producers)
+- Colorado State University Extension, [Colorado Onions](https://extension.colostate.edu/resource/colorado-onions-3/)
+- Potato Goodness, [Buying & Storing Potatoes](https://potatogoodness.com/buying-storing-potatoes/)
+- Colorado State University Extension, [How to Use Potatoes](https://extension.colostate.edu/docs/covid/HowPotatoes.pdf)
 
 ## Заморозка и домашние заготовки
 
@@ -55,6 +58,24 @@
 - Vejibag, [официальный магазин](https://www.vejibag.com/)
 - Vejibag, [Two Pocket для трав и зелени](https://www.vejibag.com/products/two-pocket-vejibag)
 - Boxberry Market, [Stasher](https://boxberry.ru/market/brands/brand-stasher/)
+- Kuchenland Home, [корзина для фруктов, 30 см, металл, сетка](https://www.kuchenland.ru/product/korzina-dlya-fruktov-30-sm-metall-zolotistaya-setka-twist-twin/)
+- Kuchenland Home, [этажерка 3-х ярусная с корзинами Smart Store](https://www.kuchenland.ru/catalog/gostinaya-i-spalnya/mebel/veshalki-i-polki/etazherka-3-kh-yarusnaya-21x48x77-sm-na-kolesakh-s-korzinami-plastik-belaya-smart-store/)
+- ВсеИнструменты, [Mallony металлическая корзина с бамбуковой ручкой](https://www.vseinstrumenti.ru/product/korzina-dlya-hraneniya-universalnaya-mallony-metallicheskaya-s-bambukovoj-ruchkoj-kruglaya-22-5h20-5h10-5-sm-310902-21324770/)
+- ВсеИнструменты, [Marmiton металлическая корзина для овощей и фруктов](https://www.vseinstrumenti.ru/product/metallicheskaya-korzina-dlya-hraneniya-ovoschej-i-fruktov-marmiton-26-5x24-5x17-sm-17374-6871243/)
+- ВсеИнструменты, [Юнитрейд-Орел этажерка с корзинами для картошки](https://www.vseinstrumenti.ru/product/metallicheskaya-etazherka-na-kolesah-s-shtabeliruemymi-korzinami-dlya-kartoshki-yunitrejd-orel-na-balkon-00-00-002-01-14-9005-02-4696128/)
+- ВсеИнструменты, [Violet Junior 3-ярусная этажерка](https://www.vseinstrumenti.ru/product/etazherka-violet-junior-napolnaya-3-h-yarusnaya-na-kolesah-myatnaya-771341-6141811/)
+
+## Маркировка и принтеры этикеток
+
+- Brother, [P-touch CUBE Plus PT-P710BT](https://www.brother-usa.com/products/PTP710BT)
+- Brother, [PT-D610BT](https://www.brother-usa.com/products/PTD610BT)
+- Brother, [P-touch Design&Print app](https://www.brother.eu/en/designprint)
+- Brother, [TZe laminated label tapes](https://www.brother-usa.com/supplies/label-tape/tze-tape)
+- A1TIS, [Brother Cube Plus PTP710BT](https://a1tis.ru/catalog/office/label-printers/brother/brother-cube-ptp710bt-ptp710bt/)
+- A1TIS, [Brother PT-H110](https://a1tis.ru/catalog/office/label-printers/brother/brother-pt-h110-pth110r1/)
+- ForOffice, [Brother PT-H110](https://www.foroffice.ru/products/description/133305.html)
+- DYMO, [LabelWriter 450 Direct Thermal Label Printer](https://www.dymo.com/label-makers-printers/labelwriter-label-printers/dymo-labelwriter-450-direct-thermal-label-printer/SAP_1752264.html?actionPoint=Show&bvstate=pg%3A3%2Fct%3Ar)
+- Avery, [Direct Thermal Labels 4157](https://www.avery.com/products/labels/4157)
 
 ## Комментарий к источникам
 
